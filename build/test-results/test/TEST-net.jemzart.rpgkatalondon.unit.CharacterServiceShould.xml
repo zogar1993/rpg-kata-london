@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="net.jemzart.rpgkatalondon.unit.CharacterServiceShould" tests="3" skipped="0" failures="0" errors="0" timestamp="2019-09-10T03:41:56" hostname="Guisp" time="0.003">
+  <properties/>
+  <testcase name="a dto crafted from a character domain model retains its name, level and health" classname="net.jemzart.rpgkatalondon.unit.CharacterServiceShould" time="0.002"/>
+  <testcase name="return a lvl 1 character with 1000 health when asked for a new character" classname="net.jemzart.rpgkatalondon.unit.CharacterServiceShould" time="0.0"/>
+  <testcase name="lower the health of the target by the designated amount when it is dealt damage" classname="net.jemzart.rpgkatalondon.unit.CharacterServiceShould" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
